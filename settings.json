@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "ThermoCladeSMP.aternos.me",
+    "port": 49982,
+    "version": "1.26.12.2",
     "try-creative": false
   },
   "position": {
